@@ -2,3 +2,5 @@
 .logo{min-height:44px}.document a{display:inline-flex;align-items:center;min-height:44px}
 
 .footerlinks a{min-width:44px}
+
+.glance{font-size:17px;line-height:1.5;background:var(--soft);border-left:4px solid var(--primary);padding:12px 16px;margin:0 0 22px;max-width:56ch}
