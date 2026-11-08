@@ -1,0 +1,41 @@
+{
+  "unit_id": "LOCAL-BATCH1-TOPICQUAY",
+  "name": "GCSE revision planner printable",
+  "public_name": "Topicquay",
+  "slug": "topicquay",
+  "site_dir": "/workspace/sites-new/topicquay",
+  "public_domains": [],
+  "user_go": null,
+  "checkout_mode": "none",
+  "checkoutMode": "none",
+  "email": "localreply+topicquay@agentmail.to",
+  "stage": "LOCAL_DRAFT",
+  "type": "digital",
+  "status_label": "LOCAL ONLY / coming soon / not for sale",
+  "offer": {
+    "audience": "GCSE students and their parents",
+    "offer": "A printable GCSE revision planner: map your topics, plan the week and keep track of practice.",
+    "pricing": [
+      {
+        "price": "\u00a35 one-off (planned)",
+        "status": "planned/draft"
+      }
+    ],
+    "limits": "Organisation tools, not teaching or exam-board guidance. No exam questions, syllabus content or grade promises."
+  },
+  "trader_name": null,
+  "trader_address": null,
+  "spend_gbp": 0,
+  "publish": {
+    "status": "NOT_PUBLISHED"
+  },
+  "inbox": {
+    "address": "localreply+topicquay@agentmail.to",
+    "status": "plus-address; delivery not independently tested"
+  },
+  "name_check": {
+    "date": "2026-11-08",
+    "method": "Exact-name public web search only",
+    "result": "No obvious same-name commercial conflict in returned results; not trademark clearance"
+  }
+}
